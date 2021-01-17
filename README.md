@@ -1,0 +1,2 @@
+# GmaTX
+ Gmail Hesap Açıcı

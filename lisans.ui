@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Lisans</class>
+ <widget class="QMainWindow" name="Lisans">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>476</width>
+    <height>335</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Gmatix | Lisans</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>gmail.png</normaloff>gmail.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(C:/Users/hp/Desktop/Berkant/Diğer/gha/background.jpg) 0 0 0 0 stretch stretch;
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">border-image: ur(lC:/Users/hp/Desktop/Berkant/Diğer/gha/background1.jpg) 0 0 0 0 stretch stretch;
+</string>
+   </property>
+   <widget class="QLineEdit" name="anahtarkontrol">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>190</y>
+      <width>391</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="lisansonay">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>250</y>
+      <width>151</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(170, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Onayla</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>0</y>
+      <width>241</width>
+      <height>181</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>licence.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>anahtarkontrol</zorder>
+   <zorder>lisansonay</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,5 @@
+[1028/153234.122:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1028/163802.193:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/163802.196:ERROR:exception_snapshot_win.cc(99)] thread ID 10392 not found in process
+[1028/163802.219:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[1028/163802.220:ERROR:exception_snapshot_win.cc(99)] thread ID 1712 not found in process
